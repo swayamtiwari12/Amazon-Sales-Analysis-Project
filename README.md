@@ -1,6 +1,9 @@
 # Amazon-Sales-Analysis-Project
 End-to-end data analytics project using an e-commerce dataset inspired by Amazon. Includes Excel cleaning, SQL analysis, and a Power BI dashboard with DAX KPIs for Sales, Profit, Growth, and market insights. Demonstrates real business intelligence and data storytelling skills.
-🚀 SQL & Power BI Project – Amazon Sales Analysis Dashboard
+
+🚀 SQL & Power BI Project –
+
+Amazon Sales Analysis Dashboard
 Excited to share my latest data analytics project where I analyzed an Amazon Sales Dataset using Excel, SQL & Power BI to uncover business insights and growth opportunities.
 
 📊 Key Highlights from the Dashboard.
